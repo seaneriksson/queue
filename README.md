@@ -1,2 +1,2 @@
 # queue
-Created for data structure course.  Written in C++
+Created for data structures course.  Written in C++
